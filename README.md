@@ -29,6 +29,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmZjA4OWFmNGRjNWNjYjUxOGNlNjAyMGRiYWE0NGMyMjAxZDA3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/br99SojJZ5rlfSYset/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
 
 <!--
 **PixerJason/PixerJason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
