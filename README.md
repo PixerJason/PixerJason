@@ -16,8 +16,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=PixerJason&style=flat-square&color=blue" alt="" align="center"/>
-
+</div>
 <!--
 **PixerJason/PixerJason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
