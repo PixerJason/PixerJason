@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="PixerJason">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/PixerJason">
     <img src="https://img.shields.io/badge/GitHub-black?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
