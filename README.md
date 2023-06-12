@@ -43,7 +43,7 @@ I am a Learner Stack Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: Learning Python And bash.
 
-- :mailbox:How to reach me: [![github Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/PixerJason)
+- :mailbox:How to reach me:[![github Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/PixerJason)
 
 
 <!--
